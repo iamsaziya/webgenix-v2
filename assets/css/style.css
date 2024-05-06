@@ -57,7 +57,7 @@
 :root {
 	--text-color: #808285;
 	--heading: #191919;
-    --blue-dark: #5956e9;
+    --blue-dark: #2596be;
 	--light-gray: #fafafb;
 	--dmsans: 'DM Sans', sans-serif;
 }
@@ -2630,6 +2630,7 @@ button {
     background:url(../images/map.png) no-repeat right;
     background-size: contain;
     z-index: -1;
+    background-color: #2596be;
 }
 .cta-area-v1 .cta-wrapper .section-title h2{
     font-size: 70px;
